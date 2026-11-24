@@ -1,3 +1,7 @@
+[![make.fun · bounty-entrants-03](https://make.fun/badge/bounty-entrants-03.svg)](https://make.fun/bounty/bounty-entrants-03?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-03)
+[![rank](https://make.fun/badge/bounty-entrants-03/Myro124/makefun-bounty-entrants-03/rank.svg)](https://make.fun/bounty/bounty-entrants-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-03)
+[![reward](https://make.fun/badge/bounty-entrants-03/Myro124/makefun-bounty-entrants-03/reward.svg)](https://make.fun/bounty/bounty-entrants-03?utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-03)
+
 # bounty-entrants-03 starter
 
 A working entry for the make.fun bounty "Bring the most entrants to the bounties you make on make.fun": you and your AI
